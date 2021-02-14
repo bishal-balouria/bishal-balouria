@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bishal Balouria with 10 lus years of experience in IBM Mainframes.
+- 👋 Hi, I’m Bishal Balouria with 10 plus years of experience in IBM Mainframes.
 - 👀 I’m interested in Python,Data Science,Big Data,Cloud Computing and Business Intelligence.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on learning Python and Data Science
